@@ -1,0 +1,12 @@
+# Entornos virtuales locales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Carpetas de datos locales (opcional, para evitar subirlas a GitHub)
+dataset/
+excel/
